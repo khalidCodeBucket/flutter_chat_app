@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "733415140527",
+    "firebase_url": "https://fnf-messaging-app.firebaseio.com",
+    "project_id": "fnf-messaging-app",
+    "storage_bucket": "fnf-messaging-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733415140527:android:984a1c5d33ff5c940c785a",
+        "android_client_info": {
+          "package_name": "com.appcell.fnf_messaging_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733415140527-oa0vb77tvohlahunahrgfibjfl2s8bfk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appcell.fnf_messaging_app",
+            "certificate_hash": "a1e1475ced5b18a0bd729ae4bb18a003beba7099"
+          }
+        },
+        {
+          "client_id": "733415140527-p96qi9f6q38ldetoji3ev0p7drpsfdfa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7aZIrG0v5Yxd-dU0pdMvIfp2M4jfI-Zs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "733415140527-p96qi9f6q38ldetoji3ev0p7drpsfdfa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
